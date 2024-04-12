@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-
+[
 ### Hi there 👋, my name is Mohamed Mustaf Ahmed
 #### A Data Scientist in Training
 ![A Data Scientist in Training](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -24,5 +24,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/momustafahmed)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=momustafahmed)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=momustafahmed)  ](https://github.com/momustafahmed/)
 
